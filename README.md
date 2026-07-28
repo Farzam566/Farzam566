@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Farzam
 
-<!--
-**Farzam566/Farzam566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BSIT Student at Sir Syed University of Engineering & Technology
 
-Here are some ideas to get you started:
+🌱 Currently learning and building with:
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy building projects to improve my frontend development skills and documenting my learning journey.
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- C++
+- C#
+
+## 📫 Connect with me
+- LinkedIn: *https://www.linkedin.com/in/muhammad-farzam/*
